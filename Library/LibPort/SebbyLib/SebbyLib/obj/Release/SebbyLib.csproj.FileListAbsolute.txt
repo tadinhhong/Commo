@@ -1,0 +1,13 @@
+E:\Git dev\VIP\NEW TEMP\SebbyLib\SebbyLib\bin\Release\SebbyLib.dll
+E:\Git dev\VIP\NEW TEMP\SebbyLib\SebbyLib\bin\Release\SebbyLib.pdb
+E:\Git dev\VIP\NEW TEMP\SebbyLib\SebbyLib\bin\Release\EloBuddy.dll
+E:\Git dev\VIP\NEW TEMP\SebbyLib\SebbyLib\bin\Release\EloBuddy.SDK.dll
+E:\Git dev\VIP\NEW TEMP\SebbyLib\SebbyLib\bin\Release\LeagueSharp.Common.dll
+E:\Git dev\VIP\NEW TEMP\SebbyLib\SebbyLib\bin\Release\SharpDX.Direct3D9.dll
+E:\Git dev\VIP\NEW TEMP\SebbyLib\SebbyLib\bin\Release\SharpDX.dll
+E:\Git dev\VIP\NEW TEMP\SebbyLib\SebbyLib\bin\Release\Newtonsoft.Json.dll
+E:\Git dev\VIP\NEW TEMP\SebbyLib\SebbyLib\bin\Release\EloBuddy.Sandbox.dll
+E:\Git dev\VIP\NEW TEMP\SebbyLib\SebbyLib\bin\Release\LeagueSharp.Data.dll
+E:\Git dev\VIP\NEW TEMP\SebbyLib\SebbyLib\obj\Release\SebbyLib.csprojResolveAssemblyReference.cache
+E:\Git dev\VIP\NEW TEMP\SebbyLib\SebbyLib\obj\Release\SebbyLib.dll
+E:\Git dev\VIP\NEW TEMP\SebbyLib\SebbyLib\obj\Release\SebbyLib.pdb

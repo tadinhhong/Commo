@@ -1,0 +1,14 @@
+E:\Git dev\VIP\Spacebar Prediction\Spacebar Prediction\bin\Release\SPrediction.dll.config
+E:\Git dev\VIP\Spacebar Prediction\Spacebar Prediction\bin\Release\SPrediction.dll
+E:\Git dev\VIP\Spacebar Prediction\Spacebar Prediction\bin\Release\SPrediction.pdb
+E:\Git dev\VIP\Spacebar Prediction\Spacebar Prediction\bin\Release\EloBuddy.dll
+E:\Git dev\VIP\Spacebar Prediction\Spacebar Prediction\bin\Release\EloBuddy.SDK.dll
+E:\Git dev\VIP\Spacebar Prediction\Spacebar Prediction\bin\Release\SharpDX.Direct3D9.dll
+E:\Git dev\VIP\Spacebar Prediction\Spacebar Prediction\bin\Release\SharpDX.dll
+E:\Git dev\VIP\Spacebar Prediction\Spacebar Prediction\bin\Release\Newtonsoft.Json.dll
+E:\Git dev\VIP\Spacebar Prediction\Spacebar Prediction\bin\Release\EloBuddy.Sandbox.dll
+E:\Git dev\VIP\Spacebar Prediction\Spacebar Prediction\bin\Release\LeagueSharp.Data.dll
+E:\Git dev\VIP\Spacebar Prediction\Spacebar Prediction\obj\Release\Spacebar Prediction.csprojResolveAssemblyReference.cache
+E:\Git dev\VIP\Spacebar Prediction\Spacebar Prediction\obj\Release\SPrediction.dll
+E:\Git dev\VIP\Spacebar Prediction\Spacebar Prediction\obj\Release\SPrediction.pdb
+E:\Git dev\VIP\Spacebar Prediction\Spacebar Prediction\bin\Release\LeagueSharp.Common.dll
